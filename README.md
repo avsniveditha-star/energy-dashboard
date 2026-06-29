@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Energy Management Dashboard
 
 ## Overview
@@ -47,3 +48,6 @@ The dashboard will open automatically in your default web browser.
 ## Author
 
 Developed as part of an Industrial Internship project on Energy Management and Compressed Air System Analysis.
+=======
+# energy-dashboard
+>>>>>>> 5dcf2c50c93c9fd3ad52d22cb38e69501d4a5f5d
